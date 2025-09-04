@@ -1,7 +1,7 @@
 # Hi , I'm Aarav  
 Full Stack Developer |  Mobile App Developer | AI/ML Enthusiast  
 
-![Banner](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png)
+![Banner](./banner.png)
 
 ---
 
