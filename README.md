@@ -1,7 +1,12 @@
-# Hi , I'm Aarav  
-Full Stack Developer |  Mobile App Developer | AI/ML Enthusiast  
+<div align="center">
+
+# Hi 👋, I'm Aarav  
+
+🚀 Full Stack Developer | 📱 Mobile App Developer | 🌐 AI/ML Enthusiast  
 
 ![Banner](./banner.png)
+
+</div>
 
 ---
 
