@@ -1,12 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Aarav  
 
-🚀 Full Stack Developer | 📱 Mobile App Developer | 🌐 AI/ML Enthusiast  
-
-![Banner](./banner.png)
+<img src="./banner.png" alt="Banner" width="100%" />
 
 </div>
+
 
 ---
 
